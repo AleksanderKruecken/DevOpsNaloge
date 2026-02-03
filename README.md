@@ -7,7 +7,7 @@ Vsebina repozitorija:
 
 ## Naloge
 ### 1. Naloga
-V mapi .github/workflows prilagodite datoteko workflow.yml tako, da bo izvedla gradnjo Quarkus backend (in hkrati tudi teste enot).
+V mapi .github/workflows prilagodite datoteko workflow.yml tako, da bo izvedla gradnjo Quarkus backend (in hkrati tudi teste enot). Pred začetkom ne pozabite omogočiti GitHub Actions v repozitoriju na zavihku Actions.
 Pri tem si lahko pomagate s spodnjim odsekom kode:
 ```
 BE-build-test-package:
